@@ -1,0 +1,1 @@
+This project is created to practice all of the HTML knowledge I have acquired and build a basic recipe website.
